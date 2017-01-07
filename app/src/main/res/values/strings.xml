@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleHandlerPost</string>
+    <string name="click_start_button">Click Start button</string>
+    <string name="start">Start</string>
+</resources>
